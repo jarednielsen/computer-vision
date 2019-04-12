@@ -9,3 +9,5 @@ proj5-object-detection/CUB_200_2011/*
 proj5-object-detection/jpg/*
 proj5-object-detection/images/*
 */data/*
+proj6-image-classification/cars_train/*
+proj6-image-classification/cars_test/*
